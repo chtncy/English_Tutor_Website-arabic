@@ -183,7 +183,7 @@ section {
   display: inline-block;
 }
 .text-animation span::before {
-  content: "مدرس لغة إنجليزية";
+  content: "مدرسة إنجليزية";
   color: var(--main-color);
   animation: words 20s infinite;
 }
